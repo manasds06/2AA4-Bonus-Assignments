@@ -1,3 +1,3 @@
 public class Professor extends Student {
-    private Course drives;
+    private Course teaches;
 }
